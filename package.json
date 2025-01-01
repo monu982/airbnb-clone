@@ -2,6 +2,9 @@
   "name": "majorproject",
   "version": "1.0.0",
   "main": "app.js",
+  "engines": {
+    "node": "v22.9.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
