@@ -2,7 +2,7 @@
 
 A modern clone of Airbnb built with Node.js and cutting-edge technologies.
 
-![Screenshot of the app](./asstes/screenshot.png)
+![Screenshot of the app](./asstes/Screenshot.png)
 
 ## **Demo**
 Check out the live demo:
