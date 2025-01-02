@@ -101,6 +101,8 @@ app.use((err, req, res, next) => {
   res.status(statusCode).render("./layouts/error.ejs", { message });
 });
 
-app.listen(8080, () => {
-  console.log("server is listening to port : 8080");
+const PORT = process.env.PORT || 8080; // Fallback to 8080 for local dev
+
+app.listen(PORT, () => {
+  console.log(`Server is listening on port: ${PORT}`);
 });
