@@ -26,30 +26,30 @@
   <h1>Airbnb Clone</h1>
 </div>
 
-<div style="display: flex; justify-content: center;"">
+<div align="center">
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Bootstrap CSS](https://img.shields.io/badge/Bootstrap-CB48D7?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
-[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)  
-[![Cloudinary](https://img.shields.io/badge/Cloudinary-0A3A91?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)  
-[![Connect Flash](https://img.shields.io/badge/Connect--Flash-6F7E60?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/connect-flash)  
-[![Connect Mongo](https://img.shields.io/badge/Connect--Mongo-4C4C4C?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/connect-mongo)  
-[![Cookie Parser](https://img.shields.io/badge/Cookie--Parser-6D4F39?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/cookie-parser)  
-[![dotenv](https://img.shields.io/badge/dotenv-5A8F3E?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/dotenv)  
-[![EJS](https://img.shields.io/badge/EJS-9E593A?style=for-the-badge&logo=ejs&logoColor=white)](https://www.npmjs.com/package/ejs)  
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)  
-[![Express Session](https://img.shields.io/badge/Express--Session-45B8A2?style=for-the-badge&logo=express&logoColor=white)](https://www.npmjs.com/package/express-session)  
-[![Joi](https://img.shields.io/badge/Joi-9B5DE5?style=for-the-badge&logo=joi&logoColor=white)](https://www.npmjs.com/package/joi)  
-[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)  
-[![Multer](https://img.shields.io/badge/Multer-2A6EBB?style=for-the-badge&logo=multer&logoColor=white)](https://www.npmjs.com/package/multer)  
-[![Multer Storage Cloudinary](https://img.shields.io/badge/Multer--Storage--Cloudinary-FFF?style=for-the-badge&logo=cloudinary&logoColor=white)](https://www.npmjs.com/package/multer-storage-cloudinary)  
-[![Passport](https://img.shields.io/badge/Passport-1E1F26?style=for-the-badge&logo=npm&logoColor=white)](http://www.passportjs.org/)  
-[![Passport Local Mongoose](https://img.shields.io/badge/Passport--Local--Mongoose-68A0C5?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/passport-local-mongoose)  
-[![Query String](https://img.shields.io/badge/Query--String-3A5A40?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/query-string)  
-[![World Countries Data](https://img.shields.io/badge/World--Countries--Data-009639?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/world-countries-data)  
-[![Render](https://img.shields.io/badge/Render-05A6D3?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
+[![Bootstrap CSS](https://img.shields.io/badge/Bootstrap-CB48D7?style=for-the-badge&logo=bootstrap&logoColor=white)]
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)]
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-0A3A91?style=for-the-badge&logo=cloudinary&logoColor=white)]
+[![Connect Flash](https://img.shields.io/badge/Connect--Flash-6F7E60?style=for-the-badge&logo=npm&logoColor=white)]
+[![Connect Mongo](https://img.shields.io/badge/Connect--Mongo-4C4C4C?style=for-the-badge&logo=npm&logoColor=white)]
+[![Cookie Parser](https://img.shields.io/badge/Cookie--Parser-6D4F39?style=for-the-badge&logo=npm&logoColor=white)]
+[![dotenv](https://img.shields.io/badge/dotenv-5A8F3E?style=for-the-badge&logo=npm&logoColor=white)]
+[![EJS](https://img.shields.io/badge/EJS-9E593A?style=for-the-badge&logo=ejs&logoColor=white)]
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)]
+[![Express Session](https://img.shields.io/badge/Express--Session-45B8A2?style=for-the-badge&logo=express&logoColor=white)]
+[![Joi](https://img.shields.io/badge/Joi-9B5DE5?style=for-the-badge&logo=joi&logoColor=white)]
+[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)]
+[![Multer](https://img.shields.io/badge/Multer-2A6EBB?style=for-the-badge&logo=multer&logoColor=white)]
+[![Multer Storage Cloudinary](https://img.shields.io/badge/Multer--Storage--Cloudinary-FFF?style=for-the-badge&logo=cloudinary&logoColor=white)]
+[![Passport](https://img.shields.io/badge/Passport-1E1F26?style=for-the-badge&logo=npm&logoColor=white)]
+[![Passport Local Mongoose](https://img.shields.io/badge/Passport--Local--Mongoose-68A0C5?style=for-the-badge&logo=npm&logoColor=white)]
+[![Query String](https://img.shields.io/badge/Query--String-3A5A40?style=for-the-badge&logo=npm&logoColor=white)]
+[![World Countries Data](https://img.shields.io/badge/World--Countries--Data-009639?style=for-the-badge&logo=npm&logoColor=white)]
+[![Render](https://img.shields.io/badge/Render-05A6D3?style=for-the-badge&logo=render&logoColor=white)]
 
 </div>
 
